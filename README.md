@@ -91,7 +91,7 @@ My primary focus is backend engineering and DevOps, with additional experience i
 
 ---
 
-## 📈 Contribution Activity
+## 📈 Contribution Activity (Public)
 
 <div align="center">
 
